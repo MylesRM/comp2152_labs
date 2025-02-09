@@ -225,3 +225,5 @@ while m_health_points > 0 and health_points > 0:
 
 stars = "*" * num_stars
 print("Hero gets <" + stars + "> stars")
+
+#com
